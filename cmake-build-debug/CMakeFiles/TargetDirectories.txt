@@ -1,3 +1,0 @@
-C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir
-C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
