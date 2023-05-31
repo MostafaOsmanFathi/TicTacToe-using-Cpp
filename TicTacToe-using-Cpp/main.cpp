@@ -2,14 +2,32 @@
 using namespace std;
 #ifdef _WIN32
 //for windows
-    #define ClearScreen system("cls");
-    #define StopScreen  system("pause");
+#define ClearScreen system("cls");
+#define StopScreen  system("pause");
 
 #else
 // for linux
     #define ClearScreen system("clear");
     #define StopScreen  system("echo press any key ; read");
 #endif
+
+#define color(a) ((arr[a]=='X')? red(arr[a]):((arr[a]=='O')? blue(arr[a]): string{arr[a]}))
+
+std::string red(const char& chr){
+    string str{chr};
+    return "\033[1;31m" + str + "\033[0m";
+}
+std::string blue(const char& chr)
+{
+    string str{chr};
+    return "\033[1;34m" + str + "\033[0m";
+}
+
+std::string str(const char& chr){
+    string str{chr};
+    return str;
+}
+
 char judge(char arr[]) {
 #define WinnerCondition(a,b,c) (arr[a]==arr[b]&&arr[a]==arr[c]&&arr[b]==arr[c])
     if (WinnerCondition(0, 1, 2))
@@ -34,14 +52,17 @@ char judge(char arr[]) {
         return 'N';
 }
 
+
+
+
 void printScreen(char arr[]) {
     cout << endl;
-    cout << "  " << arr[0] << "   |   " << arr[1] << "  |  " << arr[2] << "   \n";
+    cout << "  " << color(0) << "   |   " << color(1) << "  |  " << color(2) << "   \n";
     cout << "______|______|_____\n";
-    cout << "  " << arr[3] << "   |   " << arr[4] << "  |  " << arr[5] << "   \n";
+    cout << "  " << color(3) << "   |   " << color(4) << "  |  " << color(5) << "   \n";
 
     cout << "______|______|_____\n";
-    cout << "  " << arr[6] << "   |   " << arr[7] << "  |  " << arr[8] << "   \n";
+    cout << "  " << color(6) << "   |   " << color(7) << "  |  " << color(8) << "   \n";
 }
 
 int Game(const string& Player1 = "Player1", const string& Player2 = "Player2") {
@@ -114,6 +135,8 @@ int main() {
     ClearScreen
     cout << "Welcome to Tic Tac Toe Game:\n";
     Interface();
-    cout << "program finished" << endl;
+
+    cout<<"this code created by mostafa osman\n";
+    cout << "thanks for using my game" << endl;
     return 0;
 }

@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2022.3.3\bin\cmake\win\x64\bin\cmake.exe"
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\mo528\CLionProjects\Sctions\Inheritance\TicTakToe_C++\TicTacToe-using-Cpp
+CMAKE_SOURCE_DIR = C:\Users\mo528\CLionProjects\Sctions\Inheritance\sss\TicTacToe-using-Cpp\TicTacToe-using-Cpp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\mo528\CLionProjects\Sctions\Inheritance\TicTakToe_C++\TicTacToe-using-Cpp\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\mo528\CLionProjects\Sctions\Inheritance\sss\TicTacToe-using-Cpp\TicTacToe-using-Cpp\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/TicTakToe_C__.dir/depend.make
@@ -69,18 +69,18 @@ include CMakeFiles/TicTakToe_C__.dir/progress.make
 include CMakeFiles/TicTakToe_C__.dir/flags.make
 
 CMakeFiles/TicTakToe_C__.dir/main.cpp.obj: CMakeFiles/TicTakToe_C__.dir/flags.make
-CMakeFiles/TicTakToe_C__.dir/main.cpp.obj: C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/main.cpp
+CMakeFiles/TicTakToe_C__.dir/main.cpp.obj: C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/main.cpp
 CMakeFiles/TicTakToe_C__.dir/main.cpp.obj: CMakeFiles/TicTakToe_C__.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mo528\CLionProjects\Sctions\Inheritance\TicTakToe_C++\TicTacToe-using-Cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TicTakToe_C__.dir/main.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TicTakToe_C__.dir/main.cpp.obj -MF CMakeFiles\TicTakToe_C__.dir\main.cpp.obj.d -o CMakeFiles\TicTakToe_C__.dir\main.cpp.obj -c C:\Users\mo528\CLionProjects\Sctions\Inheritance\TicTakToe_C++\TicTacToe-using-Cpp\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\mo528\CLionProjects\Sctions\Inheritance\sss\TicTacToe-using-Cpp\TicTacToe-using-Cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/TicTakToe_C__.dir/main.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/TicTakToe_C__.dir/main.cpp.obj -MF CMakeFiles\TicTakToe_C__.dir\main.cpp.obj.d -o CMakeFiles\TicTakToe_C__.dir\main.cpp.obj -c C:\Users\mo528\CLionProjects\Sctions\Inheritance\sss\TicTacToe-using-Cpp\TicTacToe-using-Cpp\main.cpp
 
 CMakeFiles/TicTakToe_C__.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TicTakToe_C__.dir/main.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mo528\CLionProjects\Sctions\Inheritance\TicTakToe_C++\TicTacToe-using-Cpp\main.cpp > CMakeFiles\TicTakToe_C__.dir\main.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\mo528\CLionProjects\Sctions\Inheritance\sss\TicTacToe-using-Cpp\TicTacToe-using-Cpp\main.cpp > CMakeFiles\TicTakToe_C__.dir\main.cpp.i
 
 CMakeFiles/TicTakToe_C__.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TicTakToe_C__.dir/main.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mo528\CLionProjects\Sctions\Inheritance\TicTakToe_C++\TicTacToe-using-Cpp\main.cpp -o CMakeFiles\TicTakToe_C__.dir\main.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\mo528\CLionProjects\Sctions\Inheritance\sss\TicTacToe-using-Cpp\TicTacToe-using-Cpp\main.cpp -o CMakeFiles\TicTakToe_C__.dir\main.cpp.s
 
 # Object files for target TicTakToe_C__
 TicTakToe_C___OBJECTS = \
@@ -94,7 +94,7 @@ TicTakToe_C__.exe: CMakeFiles/TicTakToe_C__.dir/build.make
 TicTakToe_C__.exe: CMakeFiles/TicTakToe_C__.dir/linklibs.rsp
 TicTakToe_C__.exe: CMakeFiles/TicTakToe_C__.dir/objects1.rsp
 TicTakToe_C__.exe: CMakeFiles/TicTakToe_C__.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\mo528\CLionProjects\Sctions\Inheritance\TicTakToe_C++\TicTacToe-using-Cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable TicTakToe_C__.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\mo528\CLionProjects\Sctions\Inheritance\sss\TicTacToe-using-Cpp\TicTacToe-using-Cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable TicTakToe_C__.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\TicTakToe_C__.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -106,6 +106,6 @@ CMakeFiles/TicTakToe_C__.dir/clean:
 .PHONY : CMakeFiles/TicTakToe_C__.dir/clean
 
 CMakeFiles/TicTakToe_C__.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\mo528\CLionProjects\Sctions\Inheritance\TicTakToe_C++\TicTacToe-using-Cpp C:\Users\mo528\CLionProjects\Sctions\Inheritance\TicTakToe_C++\TicTacToe-using-Cpp C:\Users\mo528\CLionProjects\Sctions\Inheritance\TicTakToe_C++\TicTacToe-using-Cpp\cmake-build-debug C:\Users\mo528\CLionProjects\Sctions\Inheritance\TicTakToe_C++\TicTacToe-using-Cpp\cmake-build-debug C:\Users\mo528\CLionProjects\Sctions\Inheritance\TicTakToe_C++\TicTacToe-using-Cpp\cmake-build-debug\CMakeFiles\TicTakToe_C__.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\mo528\CLionProjects\Sctions\Inheritance\sss\TicTacToe-using-Cpp\TicTacToe-using-Cpp C:\Users\mo528\CLionProjects\Sctions\Inheritance\sss\TicTacToe-using-Cpp\TicTacToe-using-Cpp C:\Users\mo528\CLionProjects\Sctions\Inheritance\sss\TicTacToe-using-Cpp\TicTacToe-using-Cpp\cmake-build-debug C:\Users\mo528\CLionProjects\Sctions\Inheritance\sss\TicTacToe-using-Cpp\TicTacToe-using-Cpp\cmake-build-debug C:\Users\mo528\CLionProjects\Sctions\Inheritance\sss\TicTacToe-using-Cpp\TicTacToe-using-Cpp\cmake-build-debug\CMakeFiles\TicTakToe_C__.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/TicTakToe_C__.dir/depend
 

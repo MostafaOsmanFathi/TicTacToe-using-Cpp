@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -21,10 +21,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5df99def-e54b-4595-826e-6583e13ceebd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f12c864fc9651d0ec1d0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-341a40ff01aa1683145b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-978cbeb27f4dea19d885.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/.cmake/api/v1/reply/index-2023-05-31T21-27-48-0503.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdC/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/3.24.2/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/compiler_depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/compiler_depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/compiler_depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/main.cpp.obj.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/TicTakToe_C__.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/TicTakToe_C__.exe" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/TicTakToe_C__.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/TicTakToe_C__.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/TicTakToe_C__.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe-using-Cpp/cmake-build-debug/cmake_install.cmake" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +78,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/CMakeLists.txt",
+    "last_opened_file_path": "C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,12 +87,12 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="TicTakToe_C__" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TicTakToe_C__" TARGET_NAME="TicTakToe_C__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TicTakToe_C__" RUN_TARGET_NAME="TicTakToe_C__">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TicTakToe_C__" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="TicTakToe_C__" TARGET_NAME="TicTakToe_C__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="TicTakToe_C__" RUN_TARGET_NAME="TicTakToe_C__">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -83,6 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685568443986</updated>
       <workItem from="1685568446242" duration="791000" />
+      <workItem from="1685576872510" duration="643000" />
     </task>
     <servers />
   </component>

@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug"/>
+				<Option working_dir="C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="TicTakToe_C__">
-				<Option output="C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/TicTakToe_C__.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug"/>
+				<Option output="C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/TicTakToe_C__.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -34,15 +34,15 @@
 					<Add directory="/mingw/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 TicTakToe_C__"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 TicTakToe_C__"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="TicTakToe_C__/fast">
-				<Option output="C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/TicTakToe_C__.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug"/>
+				<Option output="C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/TicTakToe_C__.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -57,37 +57,37 @@
 					<Add directory="/mingw/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 TicTakToe_C__/fast"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 TicTakToe_C__/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug"/>
+				<Option working_dir="C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug"/>
+				<Option working_dir="C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.3/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/main.cpp">
+		<Unit filename="C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/main.cpp">
 			<Option target="TicTakToe_C__"/>
 		</Unit>
-		<Unit filename="C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/CMakeLists.txt">
+		<Unit filename="C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

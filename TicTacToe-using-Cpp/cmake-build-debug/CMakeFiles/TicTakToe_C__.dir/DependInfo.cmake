@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/mo528/CLionProjects/Sctions/Inheritance/TicTakToe_C++/TicTacToe-using-Cpp/main.cpp" "CMakeFiles/TicTakToe_C__.dir/main.cpp.obj" "gcc" "CMakeFiles/TicTakToe_C__.dir/main.cpp.obj.d"
+  "C:/Users/mo528/CLionProjects/Sctions/Inheritance/sss/TicTacToe-using-Cpp/TicTacToe-using-Cpp/main.cpp" "CMakeFiles/TicTakToe_C__.dir/main.cpp.obj" "gcc" "CMakeFiles/TicTakToe_C__.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links.
